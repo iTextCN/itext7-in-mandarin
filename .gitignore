@@ -1,0 +1,5 @@
+# targert编译文件
+guide2/examples/*/target/
+guide2/examples/*/results/
+buildingblocks/examples/*/target/
+buildingblocks/examples/*/results/

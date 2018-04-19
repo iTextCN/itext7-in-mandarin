@@ -47,10 +47,28 @@ iText7文档的汉化版本
 
 ./guide/examples
 
+> guide2目录是CuteKe翻译的另一版本，目录结构与guide一样，代码是IDEA工程，可以直接运行
+
+### 2. buildingblocks
+
+具体讲述iText里面的类，各种基础构建块的使用，适合iText进阶的人使用
+
+#### 1.1 摘要
+
+./buildingblocks/beforeStart 
+
+#### 1.2 前言 -待翻译
+
+
+#### 1.3 章节1:介绍基本的构建块
+
+./buildingblocks/chapter1 
 
 ## 翻译人员
 
 * liumapp(liumapp.com@gmail.com / http:www.liumapp.com) 
+
+* CuteKe(839713259@qq.com / http://www.cuteke.cn)
 
 * OrangeSnow
 
