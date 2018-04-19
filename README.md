@@ -26,3 +26,23 @@ iText7文档的汉化版本
 #### 1.5 章节3:渲染器和事件处理程序
 
 ./guide/chapter3
+
+#### 1.6 章节4:PDF交互
+
+./guide/chapter4
+
+#### 1.7 章节5:操纵一个现有的PDF文档
+
+./guide/chapter5
+
+#### 1.8 章节6:重用现有的PDF文档
+
+./guide/chapter6
+
+#### 1.9 章节7:创建PDF/UA和PDF/A文档
+
+./guide/chapter7
+
+#### 1.10 案例:基础的使用案例
+
+./guide/examples
