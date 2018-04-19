@@ -46,3 +46,11 @@ iText7文档的汉化版本
 #### 1.10 案例:基础的使用案例
 
 ./guide/examples
+
+
+## 翻译人员
+
+* liumapp(liumapp.com@gmail.com/http:www.liumapp.com) 
+
+
+
