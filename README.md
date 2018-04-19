@@ -50,7 +50,7 @@ iText7文档的汉化版本
 
 ## 翻译人员
 
-* liumapp(liumapp.com@gmail.com/http:www.liumapp.com) 
+* liumapp(liumapp.com@gmail.com / http:www.liumapp.com) 
 
 * OrangeSnow
 
