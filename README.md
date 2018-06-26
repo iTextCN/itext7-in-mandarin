@@ -64,6 +64,13 @@ iText7文档的汉化版本
 
 ./buildingblocks/chapter1 
 
+### 3. pdfHTML
+
+讲述html转换pdf的iText插件pdfHTML
+
+#### 3.1 前言
+./pdfHTML/tutorial
+
 ## 翻译人员
 
 * liumapp(liumapp.com@gmail.com / http://www.liumapp.com) 
