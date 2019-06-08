@@ -63,6 +63,7 @@ iText7文档的汉化版本
 #### 2.3 章节1:介绍基本的构建块
 
 ./buildingblocks/chapter1 
+./buildingblocks/chapter2 
 
 ### 3. pdfHTML
 
